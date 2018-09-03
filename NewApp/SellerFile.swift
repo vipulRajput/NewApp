@@ -7,7 +7,10 @@
 //
 
 import Foundation
+import UIKit
 
-class SellerFlow {
+// created by vipul on janmastami
+class SellerFlow: UIViewController {
+    
     
 }
